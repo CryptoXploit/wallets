@@ -1,5 +1,5 @@
     These are test wallets to try the working functionality of the tools like Hashcat,BTCRecover etc. the passwords & informaiton about the test wallets are-
-        1.wallet1.dat passphrase-**$ecret**
+        1.wallet1.dat passphrase-$ecret
     Hash-$bitcoin$64$5c69da4d318249bedd8026b26d1cee6b5f51b83d3649b63e2618d0252a186c79$16$a15c3456b2b61df4$272435$2$00$2$00
         2.wallet2.dat passphrase-Pas$
     Hash-$bitcoin$64$25abe618039f0124b6f255c0249bb6f89a40bbe1b265119b2d407ee0934d5747$16$1ec08e6a66f283c4$259408$2$00$2$00 
